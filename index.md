@@ -2,54 +2,35 @@
 
 layout: col-sidebar
 title: OWASP Security Pins
-tags: example-tag
+tags: pins, builder, documentation
 level: 0
 type: documentation
 
-auto-migrated: 1
-
-auto-migrated: 1
-
 ---
 
+The OWASP Security Principles
+Oftentimes motivating security champions is a challenge. Most of the time, they're not willing to dedicate the time and effort to the invisible part of security. The product owners themselves focus on pushing the developement of features therefore the nessecity of security is often neglected or almost completely overlooked.
+Broken authentification.png
+That is why there is a need to visualize the investment in security, made by a champion or an entire team. One solution would be to give out corresponding buttons for every security event the champions attend. Those events could be something along the lines of a threat modeling session with OWASP Cornucopia or any other relevant topics.
+The buttons can be seen as a reward given to the representatives of each team, showcased in the team rooms. Preferably on a white hat or a sash. This concept could also be implemented with stickers. As an alternative to reward the attendency of a meeting, the actual implementation (e.g. using of a hardened image) might be rewarded.
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Benefits:
+- A teams effort in security is visible and therefore measureable
+- teams are able to compare each others achievements, especially with different skill levels (e.g. XSS Basics and XSS Advanced events)
+- Security Champions are able to get some kind of certification
+- This project could help engange others in the topic of security
 
-{front matter for this file}
+## Licensing
+This project is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+## FAQs
+### How can I participate in your project?
+Create pin designs.
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+## If I am not a programmer can I participate in your project?
+Create pin designs.
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+## Acknowledgements
+### Contributors
+The first contributors to the project were:
+- Katharina Treptow

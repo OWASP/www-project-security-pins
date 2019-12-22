@@ -1,11 +1,4 @@
-<!--### Project Information
-* Project Level
-* Project Type
-* Version, etc
+## Github
 
-### Downloads or Social Links
-* [Download](#)
-* [Social Link](#)
-
-### Code Repository
-* [repo](#)-->
+<a href="https://github.com/wurstbrot/security-pins">Github Pins</a>
+<a href="https://github.com/wurstbrot/security-pins-pdf">Github Pins PDF export</a>
