@@ -20,17 +20,5 @@ Benefits:
 - Security Champions are able to get some kind of certification
 - This project could help engange others in the topic of security
 
-## Licensing
-This project is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-
-## FAQs
-### How can I participate in your project?
-Create pin designs.
-
-## If I am not a programmer can I participate in your project?
-Create pin designs.
-
-## Acknowledgements
-### Contributors
-The first contributors to the project were:
-- Katharina Treptow
+# More Information
+More information about the pin creation process, contributions, license etc. are provided in the [github project](https://github.com/wurstbrot/security-pins).
