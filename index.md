@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Security Pins
 tags: pins, builder, documentation
-level: 0
+level: 2
 type: documentation
 
 ---
