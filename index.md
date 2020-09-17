@@ -8,7 +8,6 @@ type: documentation
 
 ---
 
-The OWASP Security Principles
 Oftentimes motivating security champions is a challenge. Most of the time, they're not willing to dedicate the time and effort to the invisible part of security. The product owners themselves focus on pushing the developement of features therefore the nessecity of security is often neglected or almost completely overlooked.
 Broken authentification.png
 That is why there is a need to visualize the investment in security, made by a champion or an entire team. One solution would be to give out corresponding buttons for every security event the champions attend. Those events could be something along the lines of a threat modeling session with OWASP Cornucopia or any other relevant topics.
