@@ -1,0 +1,28 @@
+audience:
+  - builder
+leaders:
+  - name: Timo Pagel
+    email: timo.pagel@owasp.org
+    github: wurstbrot
+  - name: Katharina Treptow
+    email: treptoratops@gmail.com
+    github: ktreptow
+level: 3
+name: OWASP Security Pins
+pitch: Description for OWASP Security Pins
+repositories:
+  - name: www-project-security-pins
+    url: https://github.com/OWASP/www-project-security-pins
+    description: OWASP Foundation Web Repository
+  - name: security-pins
+    url: https://github.com/wurstbrot/security-pins
+    description: Pin designs for security related items
+  - name: security-pins-pdf
+    url: https://github.com/wurstbrot/security-pins-pdf
+    description: Generate a security pins template
+tags:
+  - pins
+  - builder
+  - documentation
+type: documentation
+website: https://owasp.org/www-project-security-pins
